@@ -1,0 +1,1 @@
+Person{name='Ivan', surname='Ivanov', age=25, isMale=true}Person{name='Maria', surname='Ivanova', age=22, isMale=false}Person{name='Petr', surname='Petrov', age=35, isMale=true}Person{name='Mark', surname='Petrov', age=30, isMale=true}Person{name='Olga', surname='Sidorova', age=45, isMale=false}
