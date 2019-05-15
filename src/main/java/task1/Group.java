@@ -1,6 +1,7 @@
 package task1;
 
 public class Group {
+    public static final Group GROUP_5 = new Group ("5");
     String number;
 
     public Group(String number) {
